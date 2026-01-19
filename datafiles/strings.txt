@@ -1,0 +1,17 @@
+	-- game begin --
+Welcome to MetaGoggle, peculiar person!
+	-- enter shop --
+You're so strange...
+Busy, busy, busy!
+Shouldn't you be back at work?
+Isn't Artificial Intelligence a wonderful thing?
+What's your deal?
+	-- no cash --
+Insufficient funds!
+Gotta work harder!
+No chance!
+	-- purchase --
+Now you can become even better at your job!
+Lovely.
+Don't you just love capitalism?
+Great job!
